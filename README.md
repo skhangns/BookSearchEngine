@@ -45,43 +45,4 @@
 
 
 
-  # BookSearchEngine
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-  ## Description
-  an app in which you can search for books
-  
-  
-  ## Table of Contents 
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
- 
-  ## Installation
-  
-  nodejs react 
-  
-  ## Usage
- 
-  To help the user find books they may like or read out of interest
- 
- 
-   ## Tests
-  no tests can be performed
-  
-  ## License 
-  MIT
-  (https://opensource.org/licenses/MIT)
-
-  ## Contributors
-  Soheab Khan
-  
-  ## Questions
-  If you have any questions feel free to reach out to me at:
-  <br>
-  [skhangns@gmail.com](mailto:skhangns@gmail.com)
-  <br>
-  [GitHub](https://github.com/skhangns)
-
-
